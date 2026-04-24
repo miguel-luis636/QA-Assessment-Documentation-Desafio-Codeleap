@@ -14,7 +14,7 @@ Mensagens de erro dos inputs dos formulários estão em inglês, mesmo com a apl
 3. Observar mensagens de erro exibidas
 4. Verificar o label do campo de email
 
-Evidência:
+Evidência: https://drive.google.com/file/d/1kGa1B7an1SzZDveFKTLQjDKxj6Id32LG/view?usp=sharing
 
 
 **Resultado esperado:**
@@ -49,7 +49,7 @@ Senha exposta sem opção de ocultar, botão de login com texto ilegível, açã
 5. Inserir credenciais inválidas
 6. Observar ausência de feedback
 
-Evidência:
+Evidência: https://drive.google.com/file/d/1GoSU5A3ur1giHH5-GX1RKfs39VSlf7_A/view?usp=sharing
 
 **Resultado esperado:**
 
@@ -84,7 +84,7 @@ Ausência de feedback visual ao solicitar recuperação, não informa tempo esti
 3. Clicar em enviar/reenviar
 4. Verificar ausência de retorno
 
-Evidência:
+Evidência: https://drive.google.com/file/d/1go5Jd-zayVI2k1nPkWuKYgIB0mujY8gf/view?usp=sharing
 
 **Resultado esperado:**
 
@@ -118,8 +118,6 @@ Demora perceptível na criação de conta e outras ações.
 2. Realizar ações como atualizar dados
 3. Observar tempo de resposta
 
-Evidência:
-
 **Resultado esperado:**
 Resposta rápida e fluida
 
@@ -143,7 +141,7 @@ Notificações exibidas em inglês.
 1. Executar ação que gere notificação
 2. Observar idioma
 
-Evidência:
+Evidência: https://drive.google.com/file/d/1t_XCYL4rHmyW3QvFB9e1kdL4FQLU8Gyc/view?usp=sharing
 
 **Resultado esperado:**
 Notificações em português
@@ -168,7 +166,7 @@ Textos em inglês e uso de "lorem ipsum".
 1. Criar conta
 2. Observar tela inicial
 
-Evidência:
+Evidência: https://drive.google.com/file/d/12xaF6zxGVJ2l-I-hYSELrSN_BM8DyzYd/view?usp=sharing
 
 **Resultado esperado:**
 Conteúdo real e traduzido
@@ -193,8 +191,6 @@ App aparenta reiniciar ao aceitar notificações.
 1. Aceitar notificação
 2. Observar comportamento do app
 
-Evidência:
-
 **Resultado esperado:**
 Continuidade da navegação
 
@@ -217,7 +213,7 @@ Header e logo exibem "crud" ao invés da marca.
 
 1. Acessar tela principal apos login ou cadastro
 
-Evidência:
+Evidência: https://drive.google.com/file/d/1bL11pPZt3g-NDLTG9LQXzQOkEQPCU6ym/view?usp=sharing
 
 **Resultado esperado:**
 Nome e identidade da aplicação
@@ -243,7 +239,8 @@ Busca por nome de usuário não funciona.
 1. Digitar nome de usuário
 2. Realizar busca
 
-Evidência:
+Evidência1: https://drive.google.com/file/d/1wXAYEZwefugSOdIzJEFLeMIqoKlspgEU/view?usp=sharing
+Evidência2: https://drive.google.com/file/d/14e1ko6JrOv0z7VNB4OZfJCKyPmChhOGq/view?usp=sharing
 
 **Resultado esperado:**
 Resultados correspondentes
@@ -268,7 +265,7 @@ Posts criados não aparecem ou não são exibidos corretamente.
 1. Criar post
 2. Voltar ao feed
 
-Evidência:
+Evidência: https://drive.google.com/file/d/1QgdnzKnZ1XhA4s1GbKqrXCBYyEN8Skz2/view?usp=sharing
 
 **Resultado esperado:**
 Post visível no topo
@@ -296,7 +293,7 @@ Ao acessar mensagens de um post, aparece “crudPost” no topo e textos “titl
 2. Clicar na opção de mensagens/interação
 3. Observar o topo da tela e conteúdo exibido
 
-Evidência:
+Evidência: https://drive.google.com/file/d/1VmQx9RGkPb7_kZIU6-_D47zPMBWISg5l/view?usp=sharing
 
 **Resultado esperado:**
 
@@ -325,7 +322,7 @@ Mensagem de erro apresenta falha de digitação: “e -mail” ao invés de “e
 1. Tentar criar conta com e-mail já existente
 2. Observar mensagem de erro
 
-Evidência:
+Evidência: https://drive.google.com/file/d/1BuRzWyH_HZOqqZWChprw1J5EwoLkVrue/view?usp=sharing
 
 **Resultado esperado:**
 Mensagem com ortografia correta
@@ -351,7 +348,7 @@ Senha exposta, mensagens em inglês, campo “email address” e pouco feedback 
 2. Preencher dados
 3. Criar conta
 
-Evidência:
+Evidência: https://drive.google.com/file/d/1I582jwQV9FXxbYyu698or-XlOgOOPeJ0/view?usp=sharing
 
 **Resultado esperado:**
 
@@ -384,7 +381,7 @@ Falta de padronização de UI/UX e validação
 1. Rolar feed até o final
 2. Observar loading
 
-Evidência:
+Evidência: https://drive.google.com/file/d/1Gybnhr4m06E61qTMrR0RMna7eeO-gS6_/view?usp=sharing
 
 **Resultado esperado:**
 
@@ -411,7 +408,7 @@ Conta não é removida mesmo após confirmação e não há feedback de erro.
 1. Solicitar exclusão de conta
 2. Confirmar ação
 
-Evidência:
+Evidência: https://drive.google.com/file/d/18h1SYtkNuzHoL-M_TZnCgIyP0I3D0jul/view?usp=sharing
 
 **Resultado esperado:**
 Conta removida + feedback
@@ -437,7 +434,7 @@ Dados de uma conta permanecem no formulário ao criar outra conta.
 2. Sair/criar nova conta
 3. Observar formulário
 
-Evidência:
+Evidência: https://drive.google.com/file/d/1eB2p8AtpSKFFIie8NhPLedi9q3R6wxfU/view?usp=sharing
 
 **Resultado esperado:**
 Campos limpos
@@ -463,7 +460,7 @@ Texto de conta anterior aparece ao criar post em nova conta.
 2. Criar post
 3. Criar conta B
 
-Evidência:
+Evidência: https://drive.google.com/file/d/1IHj1jXEhOsa_RlRAfmg4D7nonuPqbHLu/view?usp=sharing
 
 **Resultado esperado:**
 Campo vazio
@@ -488,7 +485,7 @@ Mensagens enviadas desaparecem após 1 segundo, aceitam mensagens vazias e não 
 1. Enviar mensagem
 2. Observar comportamento
 
-Evidência:
+Evidência: https://drive.google.com/file/d/1qHdMZr2rDphhSoYcKUyQn7T_8pl993B5/view?usp=sharing
 
 **Resultado esperado:**
 Mensagem persistente e validada
@@ -513,7 +510,7 @@ Nome e sobrenome não são atualizados após edição.
 1. Editar perfil
 2. Salvar
 
-Evidência:
+Evidência: https://drive.google.com/file/d/1TucBB-oqTCvoKEDU5NVVFS08qOsbXNFN/view?usp=sharing
 
 **Resultado esperado:**
 Dados atualizados
@@ -538,7 +535,7 @@ App fica preso na tela de logo ao reiniciar.
 1. Fechar app
 2. Abrir novamente
 
-Evidência:
+Evidência: https://drive.google.com/file/d/18c7_YdzOnLIyxIHHh8dZeXAA3ASQnapA/view?usp=sharing
 
 **Resultado esperado:**
 Carregamento normal
@@ -562,7 +559,7 @@ Campos aceitam entrada ilimitada de caracteres.
 
 1. Inserir texto longo em inputs
 
-Evidência:
+Evidência: https://drive.google.com/file/d/1j4bAiQBOCkPsE8rXpTK8lO8UG23-UbTj/view?usp=sharing
 
 **Resultado esperado:**
 Limite definido
@@ -587,7 +584,7 @@ Conta criada com dados inválidos (“undefined undefined”) e sem posts.
 1. Criar conta com falha
 2. Acessar sistema
 
-Evidência:
+Evidência: https://drive.google.com/file/d/1AYsbZ4xCZCsny-hWcea_JbkAUNbguPpV/view?usp=sharing
 
 **Resultado esperado:**
 Cadastro bloqueado ou dados válidos
