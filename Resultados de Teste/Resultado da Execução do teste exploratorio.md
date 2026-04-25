@@ -14,6 +14,11 @@ Durante a execução dos testes exploratórios, foram avaliadas as principais fu
 
 ---
 
+## Ambiente de Teste
+* Android versão mais recente
+* Moto g75 5G
+* App no ambiente de homologação
+
 ## 🧠 Abordagem Utilizada
 
 Foi utilizada a abordagem de **testes exploratórios**, onde aprendizado, criação e execução dos testes ocorrem simultaneamente, permitindo identificar falhas de forma dinâmica e eficiente.
