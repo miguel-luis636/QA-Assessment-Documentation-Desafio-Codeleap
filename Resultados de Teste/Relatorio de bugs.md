@@ -1,5 +1,11 @@
 # 🐞 Bugs Documentados
 
+
+## Ambiente de Teste
+* Android versão mais recente
+* Moto g75 5G
+* App no ambiente de homologação
+
 ---
 
 ## 🐞 Bug 1 — Login (Idioma e inconsistência de campos)
