@@ -14,6 +14,12 @@ Durante os testes, o foco principal foi **identificar falhas que impactam direta
 
 ---
 
+## Ambiente de Teste
+* Android versão mais recente
+* Moto g75 5G
+* App no ambiente de homologação
+
+
 ## 🎯 Priorização de Testes
 
 A priorização foi baseada no impacto para o usuário final e no risco de falhas visíveis:
